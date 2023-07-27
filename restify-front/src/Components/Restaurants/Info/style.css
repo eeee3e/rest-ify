@@ -1,0 +1,182 @@
+.rest-header {
+    margin-top: 3em;
+    margin-left: 0em;
+    margin-right: 0em;
+    background-color: #212529;
+    padding-left: 0;
+    padding-right: 0;
+    height: 550px;
+    width: 100%;
+}
+
+
+
+
+.header-pic img{
+    width: 100%;
+    height: 20em;
+    margin-left: 0em;
+    margin-right: 0em;
+    padding-left: 0;
+    padding-right: 0;
+}
+
+.header-pic {
+
+    margin-left: 0em;
+    margin-right: 0em;
+}
+
+
+hr {
+    width: 73%;
+    height: 20px;
+    color: white;
+    margin: auto;
+    margin-top: 1em;
+
+   
+}
+
+
+
+.info, .name {
+    color: white;
+}
+
+.name {
+    text-align: center;
+    padding: 20px;
+}
+
+.info .followers h3 {
+    margin-left: 5em;
+}
+
+.info ul{
+
+    display: flex;
+    list-style-type:none;
+}
+
+.info .likes{
+    margin-left: 8em;
+    
+}
+.info li {
+    margin-right: 2em;
+
+}
+
+.tabs {
+    margin: auto;
+    margin-top: 1em;
+    color: white;
+    width: 80%;
+    
+}
+
+.tabs .tabs-list{
+    margin-left: 1em;
+    border-bottom: 0;
+    
+}
+
+
+.restaurant-img {
+    margin-top: 3em;
+    border-radius: 25px;
+    height: 300px;
+    background-color: #212529;
+
+}
+
+.restaurant-img img {
+    height: 100%;
+    border-radius: 25px;
+}
+
+.restaurant-menu-item {
+    margin-top: 3em;
+    border-radius: 25px;
+    height: 200px;
+    background-color: #212529;
+
+}
+
+.restaurant-menu-item .row {
+    
+    height: 200px;
+    
+
+}
+
+.restaurant-menu-item img {
+    height: 200px;
+    width: 100%;
+    border-radius: 25px;
+    float: left;
+}
+
+
+.restaurant-comment {
+    margin-top: 1em;
+    border-radius: 25px;
+   
+    background-color: #212529;
+
+}
+
+.restaurant-comment hr {
+    width: 100%;
+}
+
+.restaurant-comment {
+    margin-top: 4em;
+
+}
+
+.restaurant-post {
+    margin-top: 1em;
+    border-radius: 25px;
+    height: 100%;
+   
+    background-color: #212529;
+
+
+}
+
+.restaurant-post img {
+    
+    border-radius: 25px;
+   
+    width: 100%;
+
+
+}
+
+.restaurant-post hr {
+    width: 100%;
+}
+
+.post-content {
+    margin-bottom: 5em;
+    padding-top: 2em;
+    padding-bottom: 2em;
+    margin-left: 2em;
+    margin-right: 2em;
+
+}
+
+.restaurant-general {
+
+    margin-top: 5em;
+    margin-bottom: 5em;
+    border-radius: 25px;
+    height: fit-content;
+   
+    background-color: #212529;
+
+}
+
+

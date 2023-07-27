@@ -1,0 +1,32 @@
+.add-image-right {
+    width: 100%;
+    margin-top: 5em;
+    margin-right: -10em;
+    margin-left: 2em;
+   
+
+}
+
+.add-image-left {
+    width: 100%;
+}
+
+.add-image-left img {
+    width: 100%;
+    height: 100%;
+    
+}
+
+.add-image-right Form {
+    width: 100%;
+    color: white;
+
+}
+
+.add-image-input {
+    background-color: #292b2c;
+    border: black;
+    color: white;
+    
+
+}

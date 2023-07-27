@@ -1,0 +1,32 @@
+.add-menu-right {
+    width: 100%;
+    margin-top: 5em;
+    margin-right: -10em;
+    margin-left: 2em;
+   
+
+}
+
+.add-menu-left {
+    width: 100%;
+}
+
+.add-menu-left img {
+    width: 100%;
+    height: 100%;
+    
+}
+
+.add-menu-right Form {
+    width: 100%;
+    color: white;
+
+}
+
+.add-menu-input {
+    background-color: #292b2c;
+    border: black;
+    color: white;
+    
+
+}
