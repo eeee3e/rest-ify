@@ -33,4 +33,4 @@ $ cd restify-front
 $ npm start
 ```
 
-
+My project team and I created this web application during our Web Development course at the University of Toronto Mississauga.
